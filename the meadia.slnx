@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="the meadia.AppHost/the meadia.AppHost.csproj" />
+  <Project Path="the meadia.ServiceDefaults/the meadia.ServiceDefaults.csproj" />
+  <Project Path="the meadia/the meadia.Client/the meadia.Client.csproj" />
+  <Project Path="the meadia/the meadia/the meadia.csproj" />
+</Solution>
